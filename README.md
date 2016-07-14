@@ -9,7 +9,7 @@ The best protection is prevention!
 
 So why keep port 10000 open if you rarely access webmin? Why is ssh  round the clock accessable from the internet? 
 
-I propose a black hole aproach : not respond to anything on specific ports  if you don't know it's from a friend. 
+I propose a black hole aproach : not respond to anything on specific ports  if you don't know it's from a friend with quantum powers. 
 
 ![alt tag](https://raw.githubusercontent.com/WeLikeCode/IntrovertSecurity/master/docs/img/general_arhi.jpg)
 
