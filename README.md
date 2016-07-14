@@ -16,6 +16,6 @@ I propose a black hole aproach : not respond to anything on specific ports  if y
 A client application runs on the vps and blocks webmin port , for example. When you need to login into the webmin panel, you first access the "Master panel" (Server from the picture), which creates a ticket for you. The ticket contains data about your IP, time to live and ports to be opened.  
 The client running on the VPS checks every 10 seconds the "Master panel" for tickets. When it gets one, it opens the ports for your IP. 
 
-The "Master panel" is designed to be a very light google cloud deployable web application that will you google authentication. 
+The "Master panel" is designed to be a very light google cloud deployable web application that will you use google authentication. 
 
 Code coming soon ! :) 
